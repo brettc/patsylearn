@@ -16,5 +16,4 @@ setup(name='patsylearn',
       install_requires=install_requires,
       keywords='scikit-learn patsy formula machine-learning',
       packages=['patsylearn'],
-      long_description=(open('README.md').read() if exists('README.rst') else
-                        ''))
+      long_description=(open('README.md').read() if exists('README.rst') else ''))
